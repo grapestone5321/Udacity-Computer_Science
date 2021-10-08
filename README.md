@@ -3,6 +3,10 @@ Udacity-Computer_Science
 
 -------
 
+- Intro to Computer Science
+
+-------
+
 - High Performance Computer Architecture
 
 
