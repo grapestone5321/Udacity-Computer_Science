@@ -47,10 +47,10 @@ http://prdrklaina.weebly.com/uploads/5/7/7/3/5773421/introduction_to_high_perfor
 ## 1. Map of Computer Science
 https://www.youtube.com/watch?v=SzJ46YA_RaA
 
-## 2. What is Computer Science?
+## 2. What is Computer Science?  :Zach Star
 https://www.youtube.com/watch?v=Tzl0ELY_TiM
 
-## 3. What is Computer Science? (Part 2: Algorithms, Computation, and more)
+## 3. What is Computer Science? (Part 2: Algorithms, Computation, and more) :Zach Star
 https://www.youtube.com/watch?v=q-Vqxugd6HQ
 
 ## 4. Crash Course Computer Science Preview
