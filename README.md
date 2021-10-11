@@ -47,6 +47,11 @@ https://www.uc.edu/webapps/af/hr/CUSTOMGUIDE/content/content/computerbasics.pdf
 
 Microsoft®
 
+## 3. Introduction to Memory Management 
+https://developer.apple.com/library/archive/documentation/mac/pdf/Memory/Intro_to_Mem_Mgmt.pdf
+
+
+
 -------
 
 # YouTube
