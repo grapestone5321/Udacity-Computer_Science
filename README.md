@@ -50,7 +50,14 @@ Microsoft®
 ## 3. Introduction to Memory Management 
 https://developer.apple.com/library/archive/documentation/mac/pdf/Memory/Intro_to_Mem_Mgmt.pdf
 
+## 4. memory hierarchy
+https://www.msuniv.ac.in/Download/Pdf/19055a11803e457
 
+## 5. Memory Hierarchy Design and its Characteristics
+https://annamalaiuniversity.ac.in/studport/download/engg/it/resources/Unit-IV%20&%20V%20Course%20Material.pdf
+
+## 6. External Memory Algorithms and Data Structures
+https://resources.mpi-inf.mpg.de/departments/d1/teaching/ws10/models_of_computation/ExternalMemorySurveyVitter.pdf
 
 -------
 
