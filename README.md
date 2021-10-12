@@ -62,6 +62,11 @@ https://resources.mpi-inf.mpg.de/departments/d1/teaching/ws10/models_of_computat
 ## 7. Introduction to Memories and Computer Architecture
 http://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/Lectures/Lecture%2012%20-%20Memory%20and%20Computer%20Architecture%20(x1).pdf
 
+
+## 8. Memory	System	
+https://passlab.github.io/CSE564/notes/lecture10_MemoryTech.pdf
+
+
 -------
 
 # YouTube
