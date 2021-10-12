@@ -67,6 +67,22 @@ http://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/Lectures/Lecture%2012%20-%20Memor
 https://passlab.github.io/CSE564/notes/lecture10_MemoryTech.pdf
 
 
+## 9. Computer Architecture: A Quantitative Approach: Fifth Edition
+http://acs.pub.ro/~cpop/SMPA/Computer%20Architecture%20A%20Quantitative%20Approach%20(5th%20edition).pdf
+
+https://ict.iitk.ac.in/wp-content/uploads/CS422-Computer-Architecture-patterson-5th-edition.pdf
+
+
+## 10. Basic Computer Architecture
+https://cse.unl.edu/~witty/class/embedded/material/note/architecture.pdf
+
+
+## 11. Computer Science I
+https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf
+
+## 12. COMPUTER Science handbook: Second Edition
+https://e-maxx.ru/bookz/files/tucker.pdf
+
 -------
 
 # YouTube
