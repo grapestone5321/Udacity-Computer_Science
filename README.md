@@ -59,6 +59,9 @@ https://annamalaiuniversity.ac.in/studport/download/engg/it/resources/Unit-IV%20
 ## 6. External Memory Algorithms and Data Structures
 https://resources.mpi-inf.mpg.de/departments/d1/teaching/ws10/models_of_computation/ExternalMemorySurveyVitter.pdf
 
+## 7. Introduction to Memories and Computer Architecture
+http://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/Lectures/Lecture%2012%20-%20Memory%20and%20Computer%20Architecture%20(x1).pdf
+
 -------
 
 # YouTube
