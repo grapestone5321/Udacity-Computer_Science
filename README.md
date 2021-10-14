@@ -105,6 +105,7 @@ https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZB
 https://www.youtube.com/watch?v=ReVeUvwTGdU
 
 
-
+## 6. MIT 6.172 Performance Engineering of Software Systems, Fall 2018
+23 videos, updated on Dec 4, 2019
 
 -------
