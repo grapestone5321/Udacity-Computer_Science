@@ -85,6 +85,10 @@ https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf
 ## 12. COMPUTER Science handbook: Second Edition
 https://e-maxx.ru/bookz/files/tucker.pdf
 
+
+## 13. BASICS OF COMPUTER SCIENCE Tutorials Point
+https://www.tutorialspoint.com/basics_of_computer_science/basics_of_computer_science_tutorial.pdf
+
 -------
 
 # YouTube
