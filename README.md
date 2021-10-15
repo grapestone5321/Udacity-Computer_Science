@@ -89,6 +89,12 @@ https://e-maxx.ru/bookz/files/tucker.pdf
 ## 13. BASICS OF COMPUTER SCIENCE Tutorials Point
 https://www.tutorialspoint.com/basics_of_computer_science/basics_of_computer_science_tutorial.pdf
 
+## 14. Introduction to Computing: Explorations in Language, Logic, and Machines
+https://computingbook.org/FullText.pdf
+
+
+
+
 -------
 
 # YouTube
