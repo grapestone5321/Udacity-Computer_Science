@@ -24,7 +24,6 @@ Udacity-Computer_Science
 
 - Design_of_Computer_Programs
 
-- Intro_to_Algorithms
 
 
 - Networking for Web Developers
@@ -35,6 +34,10 @@ Udacity-Computer_Science
 
 
 - Compilers_Theory_and_Practice
+
+-------
+
+- Intro_to_Algorithms
 
 
 
