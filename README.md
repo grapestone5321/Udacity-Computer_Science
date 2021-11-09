@@ -129,107 +129,103 @@ https://www.youtube.com/watch?v=ReVeUvwTGdU
 https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
 
 
-CrashCourse
+CrashCourse: Crash Course Computer Science 
 
 ### 1 / 41: Crash Course Computer Science Preview
 
 
-### 2: Early Computing: Crash Course Computer Science #1
+### 2: Early Computing: #1
 
 
-### 3: Electronic Computing: Crash Course Computer Science #2
+### 3: Electronic Computing: #2
 
-### 4: Boolean Logic & Logic Gates: Crash Course Computer Science #3
+### 4: Boolean Logic & Logic Gates: #3
 
-### 5: Representing Numbers and Letters with Binary: Crash Course Computer Science #4
+### 5: Representing Numbers and Letters with Binary: #4
 
-### 6: How Computers Calculate - the ALU: Crash Course Computer Science #5
+### 6: How Computers Calculate - the ALU: #5
 
-### 7: Registers and RAM: Crash Course Computer Science #6
+### 7: Registers and RAM: #6
 
-### 8: The Central Processing Unit (CPU): Crash Course Computer Science #7
-
-
-### 9: Instructions & Programs: Crash Course Computer Science #8
+### 8: The Central Processing Unit (CPU): #7
 
 
-### 10: Advanced CPU Designs: Crash Course Computer Science #9
-
-### 11:  Early Programming: Crash Course Computer Science #10
-
-### 12: The First Programming Languages: Crash Course Computer Science #11
+### 9: Instructions & Programs: #8
 
 
-### 13: Programming Basics: Statements & Functions: Crash Course Computer Science #12
+### 10: Advanced CPU Designs: #9
+
+### 11:  Early Programming: #10
+
+### 12: The First Programming Languages: #11
 
 
-### 14: Intro to Algorithms: Crash Course Computer Science #13
+### 13: Programming Basics: Statements & Functions: #12
 
 
-### 15: Data Structures: Crash Course Computer Science #14
-
-### 16: Alan Turing: Crash Course Computer Science #15
+### 14: Intro to Algorithms: #13
 
 
-### 17: Software Engineering: Crash Course Computer Science #16
+### 15: Data Structures: #14
 
-### 18: Integrated Circuits & Moore’s Law: Crash Course Computer Science #17
-
-
-### 19: Operating Systems: Crash Course Computer Science #18
-
-### 20: Memory & Storage: Crash Course Computer Science #19
-
-### 21: Files & File Systems: Crash Course Computer Science #20
+### 16: Alan Turing: #15
 
 
-### 22: Compression: Crash Course Computer Science #21
+### 17: Software Engineering: #16
+
+### 18: Integrated Circuits & Moore’s Law: #17
 
 
-### 23: Keyboards & Command Line Interfaces: Crash Course Computer Science #22
+### 19: Operating Systems: #18
+
+### 20: Memory & Storage: #19
+
+### 21: Files & File Systems: #20
 
 
-### 24: Screens & 2D Graphics: Crash Course Computer Science #23
-
-### 25: The Cold War and Consumerism: Crash Course Computer Science #24
-
-### 26: The Personal Computer Revolution: Crash Course Computer Science #25
+### 22: Compression: #21
 
 
-### 27: Graphical User Interfaces: Crash Course Computer Science #26
+### 23: Keyboards & Command Line Interfaces: #22
 
 
-### 28: 3D Graphics: Crash Course Computer Science #27
+### 24: Screens & 2D Graphics: #23
 
-### 29: Computer Networks: Crash Course Computer Science #28
+### 25: The Cold War and Consumerism: #24
 
-### 30: The Internet: Crash Course Computer Science #29
-
-### 31: The World Wide Web: Crash Course Computer Science #30
-
-### 32: Cybersecurity: Crash Course Computer Science #31
+### 26: The Personal Computer Revolution: #25
 
 
-### 33: Hackers & Cyber Attacks: Crash Course Computer Science #32
-
-### 34: Cryptography: Crash Course Computer Science #33
-
-### 35: Machine Learning & Artificial Intelligence: Crash Course Computer Science #34
-
-### 36: Computer Vision: Crash Course Computer Science #35
-
-### 37: Natural Language Processing: Crash Course Computer Science #36
-
-### 38: Robots: Crash Course Computer Science #37
-
-### 39: Psychology of Computing: Crash Course Computer Science #38
+### 27: Graphical User Interfaces: #26
 
 
-### 40: Educational Technology: Crash Course Computer Science #39
+### 28: 3D Graphics: #27
 
+### 29: Computer Networks: #28
 
-### 41: The Singularity, Skynet, and the Future of Computing: Crash Course Computer Science #40
+### 30: The Internet: #29
 
+### 31: The World Wide Web: #30
+
+### 32: Cybersecurity: #31
+
+### 33: Hackers & Cyber Attacks: #32
+
+### 34: Cryptography: #33
+
+### 35: Machine Learning & Artificial Intelligence: #34
+
+### 36: Computer Vision: #35
+
+### 37: Natural Language Processing: #36
+
+### 38: Robots: #37
+
+### 39: Psychology of Computing: #38
+
+### 40: Educational Technology: #39
+
+### 41: The Singularity, Skynet, and the Future of Computing: #40
 
 -------
 
